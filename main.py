@@ -1,11 +1,13 @@
 
 
 def main():
-    x=2
-    a=5
-    print(f"a: {a}")
 
-    print(f"a+x: {a}+{x} = {a+x}")
+
+    y=2
+    z=5
+    print(f"y: {y}")
+
+    print(f"y+z: {y}+{z} = {y+z}")
 
 
 if __name__ == "__main__":
