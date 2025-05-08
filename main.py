@@ -5,6 +5,7 @@ def main():
     a=5
     print(f"a: {x}")
 
+    print(f"a+x: {a}+{x} = {a+x}")
 
 
 if __name__ == "__main__":
